@@ -1,0 +1,75 @@
+{
+    "classes": [{
+        "id": 1,
+        "title": "Glass Class Studio Pass",
+        "price": 150,
+        "materials": false,
+        "duration": "Six 2-hr sessions",
+        "type": "6 session pass",
+        "description": "General studio time.  Purchase a studio pass and enjoy six 2-hour studio blocks to use as you choose.  Studio pass includes use of all studio equipment, firing and technical consultation.  Material costs are not included.",
+        "image": "glassclass.png"
+    }, {
+        "id": 2,
+        "title": "Glass Class Pass Extension",
+        "price": 10,
+        "materials": false,
+        "duration": "2-hr session",
+        "type": "Class",
+        "description": "After purchase and use of the Glass Class Studio Pass, additional ongoing 2-hour open studio blocks can be purchased for $10/session.  Studio pass extensions include use of all studio equipment, firing and technical consultation.  Material costs are not included.",
+        "image": "glassclass2.png"
+    }, {
+        "id": 3,
+        "title": "Bud Vase Class",
+        "price": 40,
+        "materials": true,
+        "duration": "2-hr session",
+        "type": "Class",
+        "description": "Create two beautiful \"hang on the wall\" bud vases. Small vases will hold water and show off your favorite spring buds! Must pay in advance to reserve this special class. No experience required.",
+        "image": "budvase.jpg"
+    }, {
+        "id": 4,
+        "title": "Berry Bowl Class",
+        "price": 50,
+        "materials": true,
+        "duration": "2-hr session",
+        "type": "Class",
+        "description": "Create one beautiful bowl in which you can rinse and serve spring & summer berries. Intricate designs can be achieved in this beautiful little bowl. Several shapes available. Bowls average 8\" in diameter. No experience required.",
+        "image": "berrybowl.jpg"
+    }, {
+        "id": 5,
+        "title": "Mini-Jewelry Workshop",
+        "price": 70,
+        "materials": true,
+        "duration": "2-hr session",
+        "type": "Workshop",
+        "description": "In this fun workshop, students will work exclusively with dichroic glass to create two pair of hanging earrings, or studs, and two beautiful pendants cut from pre-made jewelry bars. All findings, gift bags, and wire necklaces are included! A fabulous gift-making opportunity!  Items can be mailed for $10 (including gluing of findings) for $10.",
+        "image": "jewelry.jpg"
+    }, {
+        "id": 6,
+        "title": "Fused Glass Mezuzah Workshop",
+        "price": 45,
+        "materials": true,
+        "duration": "2-hr session",
+        "type": "Workshop",
+        "description": "Come to the studio and create three beautiful glass Mezuzahs (scrolls not included) with amazing fusing glass and dichroic accents. Fused glass Mezuzahs sell online from $29-$75 each (also without scrolls).  This class is a lot of fun and fine to do with your kids aged 9+. Beautiful handmade gifts! Your Mezuzahs will be ready for pickup, or can be mailed USPS for an additional $8.",
+        "image": "mezuzah.jpg"
+    }, {
+        "id": 7,
+        "title": "Fused Glass Workshop",
+        "price": 70,
+        "materials": true,
+        "duration": "2-hr session",
+        "type": "Workshop",
+        "description": "Come to the studio and complete a lovely fused dish, or set.  Choices include: 7\" x 7\" candy dish, or set of four 3.25\" square condiment dishes, fabulous new channel dish 4 \"x 13\" or several other square and rectangular options.  Other choices may be made available during the class. Requires a return visit to pick up fired piece(s), or a mailing option is available for $12 (USPS Priority Mail only). Pieces will be ready two days following the workshop.",
+        "image": "fused.jpg"
+    }, {
+        "id": 8,
+        "title": "Kira Style Fusing Workshop",
+        "price": 70,
+        "materials": true,
+        "duration": "2-hr session",
+        "type": "Workshop",
+        "description": "This is a fabulous class for beginner or advanced glass fusers. You will be working with clears and frit to create a stunning candy dish, wavy or rectangular piece. Other options may be available. The Kira Style casts amazing patterns and light under and around the finished piece. Size of finished pieces will vary from 7\" x 7\" to 6\" x 8\". Particpants will learn how to cut glass as they create their piece, or they can work from pre-cut pieces.",
+        "image": "kira.jpg"
+    }]
+}
